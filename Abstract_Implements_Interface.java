@@ -1,4 +1,3 @@
-package com.OOP_Two;
 
 public class Abstract_Implements_Interface {
     public interface Disp {

@@ -1,4 +1,3 @@
-package com.OOP_Two;
 
 public class FinalKeyword {
     class Final {

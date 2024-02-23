@@ -1,4 +1,3 @@
-package com.OOP_Two;
 
 public class InterfaceField {
     public interface Pi {

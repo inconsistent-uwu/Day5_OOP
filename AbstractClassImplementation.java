@@ -1,5 +1,3 @@
-package com.OOP_Two;
-
 public class AbstractClassImplementation {
     public static abstract class Shape {
         double length;

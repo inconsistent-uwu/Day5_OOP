@@ -1,4 +1,3 @@
-package com.OOP_Two;
 
 public class PassByReference {
     public static void main(String[] args) {
